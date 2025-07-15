@@ -1,5 +1,5 @@
 # Camera-Control
-Control and record image(s)/video(s) with different cameras: Webcam, Intel Realsense, Stereolabs ZED, Hikrobot MV-WWXXX-YYZZ, etc.
+Control and record image(s)/video(s) with different cameras: Webcam, Intel Realsense, Stereolabs ZED, Hikrobot, etc.
 # Image-Processing
 - Video player.
 - Convert video(s) file format.
